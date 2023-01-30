@@ -1,0 +1,368 @@
+@media (min-width: 320px) and (max-width: 576.99px) {
+  .logo {
+    width: 140px;
+  }
+  .banner-title h1 {
+    font-size: 55px;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: 0px;
+    text-align: center;
+  }
+  .top-button {
+    bottom: 30px;
+    right: 30px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 16px;
+  }
+  .banner-title p {
+    font-size: 14px;
+    text-align: center;
+  }
+  .banner-play-store {
+    margin-left: 35px;
+  }
+  .store-item-details a .apple {
+    font-size: 20px;
+  }
+  .store-item-details a p {
+    font-size: 10px;
+  }
+  .store-item-details a p span {
+    font-size: 10px;
+  }
+  .store-item-details {
+    padding-left: 5px;
+    padding-right: 6px;
+    border-radius: 8px;
+    margin-right: 20px;
+  }
+  .main-img img {
+    max-width: 100%;
+  }
+  .common-title h3 {
+    font-size: 30px;
+    line-height: 28px;
+  }
+
+  .common-title p {
+    font-size: 13px;
+    line-height: 20px;
+    margin-bottom: 34px;
+  }
+  .about-item {
+    margin-bottom: 10px;
+  }
+  .iso-img picture img {
+    width: 280px;
+    margin: 0 auto;
+  }
+  .iso-details h4 {
+    font-size: 17px;
+    padding-top: 30px;
+    text-align: center;
+    line-height: 24px;
+  }
+  .iso-details p {
+    font-size: 12px;
+    text-align: center;
+    line-height: 20px;
+  }
+  #about-part {
+    padding: 30px 0;
+  }
+  .success-details {
+    padding-top: 40px;
+  }
+  .success-img picture img {
+    width: 290px;
+  }
+  .counter-ctr {
+    text-align: center;
+  }
+  #screenshot .previous {
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    font-size: 21px;
+    left: 8px;
+  }
+  #success-part {
+    padding: 30px 0;
+  }
+  #success-part .success-details .success-button {
+    text-align: center;
+  }
+  #success-part .success-details .success-button .button {
+    padding: 22px 19px;
+    font-size: 15px;
+  }
+  .success-img {
+    text-align: center;
+  }
+  .use-heading {
+    font-size: 28px !important;
+  }
+  #how-to-use-part {
+    padding: 30px 0;
+  }
+  #how-to-use-part .item {
+    padding: 30px;
+  }
+  #how-to-use-part .item h4,
+  p {
+    text-align: center;
+  }
+  #how-to-use-part .item h4 {
+    margin-bottom: 16px;
+  }
+  .item-button {
+    text-align: center;
+    font-size: 15px;
+  }
+  #how-to-use-part .item p {
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 14px;
+  }
+  #screenshot {
+    padding: 30px 0;
+  }
+  #screenshot .next1 {
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    font-size: 21px;
+    right: -27px;
+  }
+  #success-part .success-details .title h2 {
+    width: 300px;
+    font-size: 25px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  #success-part .success-details p {
+    font-size: 13px;
+    padding-top: 20px;
+    text-align: center;
+  }
+  #success-part .success-details .count-part .left-count h6 {
+    padding-bottom: 25px;
+    font-size: 14px;
+  }
+  #success-part .success-details .count-part .middle-count h6 {
+    padding-bottom: 25px;
+    font-size: 14px;
+  }
+  #success-part .success-details .count-part .right-count h6 {
+    padding-bottom: 25px;
+    font-size: 14px;
+  }
+  #success-part .success-details .count-part .end-count h6 {
+    font-size: 14px;
+  }
+  #success-part .success-details .count-part .left-count h2 {
+    font-size: 30px;
+  }
+  #success-part .success-details .count-part .right-count h2 {
+    font-size: 30px;
+  }
+  #success-part .success-details .count-part .middle-count h2 {
+    font-size: 30px;
+  }
+  #success-part .success-details .count-part .end-count h2 {
+    font-size: 30px;
+  }
+  #success-part .success-details .count-part .right-count h6 span {
+    display: inline;
+  }
+  .choose-icon,
+  .choose-left-text,
+  .choose-right-icon,
+  .choose-right-text {
+    text-align: center;
+  }
+  .choose-icon i,
+  .choose-right-icon i {
+    font-size: 30px;
+  }
+  .choose-left-item,
+  .choose-right-item {
+    padding-top: 0px;
+  }
+  .choose-left-text h4,
+  .choose-right-text h4 {
+    font-size: 20px;
+  }
+  .choose-left-text p,
+  .choose-right-text p {
+    font-size: 13px;
+    padding-bottom: 0;
+  }
+  .choose-photo picture img {
+    width: 200px;
+  }
+  .choose-photo {
+    margin: 0;
+  }
+  #choose-part {
+    padding: 30px 0;
+  }
+  #review-part {
+    padding: 30px 0;
+  }
+  .review-head {
+    line-height: 34px !important;
+  }
+  #review-part .review-slider .slider-box .review-details .name h4 {
+    font-size: 17px;
+  }
+  #review-part .review-slider .slider-box {
+    padding: 20px 10px;
+  }
+  #review-part .review-slider .slider-box .review-details .name h6 {
+    font-size: 14px;
+  }
+  #review-part .review-slider .slider-box p {
+    font-size: 12px;
+    padding: 0 10px;
+    margin-top: 15px;
+    line-height: 20px;
+  }
+
+  #review-part .review-slider .slider-box .icon {
+    margin-top: 15px;
+  }
+  .services-img picture img {
+    margin-top: 20px;
+    max-width: 100%;
+  }
+  .previous1 {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 30px;
+    top: 50%;
+    left: 0px;
+  }
+  .next2 {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 30px;
+    top: 50%;
+    right: 0px;
+  }
+  #training-part {
+    padding: 30px 0;
+  }
+  #training-part .training-item {
+    margin-bottom: 15px;
+  }
+  #footer-part .footer-contain-bg {
+    padding: 35px 5px 0px 5px;
+    background: rgba(255, 255, 255, 0.7);
+  }
+  #footer-part .left-item img {
+    margin-left: 56px;
+  }
+  #footer-part .left-item p {
+    font-size: 14px;
+    margin-top: 20px;
+    padding-bottom: 15px;
+  }
+  #footer-part .right-item h3 {
+    margin-top: 15px;
+    text-align: center;
+  }
+  #footer-part .middle-item h3 {
+    text-align: center;
+  }
+  #footer-part .middle-item {
+    padding-left: 0;
+  }
+  #footer-part .copy-right .main {
+    display: inline;
+  }
+  #footer-part .copy-right .main p {
+    font-size: 14px;
+    text-align: center;
+  }
+  .icon {
+    text-align: center;
+  }
+
+  #footer-part .copy-right .main .icon a i {
+    font-size: 20px;
+    margin: 12px 20px;
+  }
+  #footer-part .copy-right {
+    padding-top: 20px;
+  }
+
+  #footer-part {
+    padding-top: 30px;
+    padding-bottom: 0px;
+  }
+  #team-part {
+    padding: 30px 0;
+  }
+  address {
+    text-align: center;
+  }
+  #footer-part .middle-item ul li {
+    text-align: center;
+  }
+  #footer-part .copy-right .main .icon a i {
+    font-size: 20px;
+    margin: 12px 6px;
+    text-align: center;
+  }
+  #banner {
+    padding-top: 145px;
+    padding-bottom: 30px;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link:after {
+    opacity: 0;
+  }
+  .navbar-toggler {
+    border: none;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .navbar-toggler:hover {
+    border: none;
+  }
+  .navbar-toggler i {
+    font-size: 25px;
+  }
+  .navbar {
+    position: static;
+    padding-top: 15px;
+    background: #fff;
+  }
+  #navbarSupportedContent {
+    text-align: center;
+  }
+  .nav-btn a {
+    padding: 12px 12px;
+  }
+  .preloader h2 {
+    font-size: 16px;
+    margin: -57px auto;
+    line-height: 16px;
+    text-align: center;
+  }
+  .preloader .let9 {
+    margin-top: 22px;
+  }
+  i.fa-solid.fa-angle-right.next1.slick-arrow,
+  .fa-solid.fa-arrow-up.next.slick-arrow,
+  i.fa-solid.fa-angle-left.previous.slick-arrow,
+  .fa-solid.fa-arrow-down.prev.slick-arrow {
+    display: none !important;
+  }
+}
